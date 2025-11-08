@@ -1,5 +1,5 @@
-import GroceryDeliveryApp from './GroceryDeliveryApp';
+import GroceryDeliveryApp from "./GroceryDeliveryApp";
 
-export default function Page() {
+export default function Home() {
   return <GroceryDeliveryApp />;
 }
